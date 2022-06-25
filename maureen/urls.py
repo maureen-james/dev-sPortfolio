@@ -5,6 +5,8 @@ from . import views
 
 urlpatterns=[
     path('',views.index,name = 'index'),
+    # path('all_projects', views.all_projects, name='all_projects'),
+
 
 ]    
 if settings.DEBUG:
