@@ -31,8 +31,8 @@ body{
     
 }
 .paragraph1{
-    margin-top: 12vw; 
-    /* padding-left: 4vw; */
+    margin-top: 6vw; 
+    padding-left: 4vw;
 }
 
 .anime {
@@ -140,5 +140,11 @@ body{
   .contacts{
     text-align: center;
   }
+  #submit{
+    background-color: #0b1bcd;
+    border: 5px solid #0b1bcd;
+    border-radius: 10px;
+}
+
 
 
